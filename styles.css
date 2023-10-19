@@ -2,23 +2,6 @@ body {
   text-align: center;
   background-image: url(images/conc.jpeg);
 }
-
-h1 {
-  font-size: 5rem;
-  color: #DBEDF3;
-  font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
-  margin-left: 120px;
-
-}
-.drumkit{
-  height: 220px;
-  width: 500px;
-  position: absolute;
-  top:150px;
-  left: 860px;
-}
-
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
@@ -59,7 +42,7 @@ footer {
 
 
 .set {
-  margin: 10% auto;
+  margin: 5% auto;
 }
 
 .game-over {
